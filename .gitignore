@@ -22,3 +22,6 @@ build/
 .DS_Store
 .idea/
 .vscode/
+
+# Local discovery notes with personal values
+DISCOVERY.local.md
