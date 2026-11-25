@@ -2,6 +2,8 @@
 name = "splits-happen"
 version = "0.1.0"
 description = "Talk to your Garmin running data. See the math behind every number."
+license = "Apache-2.0"
+license-files = ["LICENSE"]
 requires-python = ">=3.12"
 dependencies = [
     "garmin-connect-personal-api-python>=1.1.0",

@@ -9,7 +9,7 @@ Open source and self-hosted, built on Garmin's official
 ## Status
 
 Discovery spike. We're mapping what the API returns before designing anything.
-See `DISCOVERY.md` once it lands.
+See [`DISCOVERY.md`](DISCOVERY.md) for what the API returns, its limits, and what it leaves out.
 
 ## Setup
 
@@ -22,3 +22,9 @@ uv sync
 
 `.env` and `data/raw/` are gitignored. Raw responses contain personal health
 data and must never be committed.
+
+## License
+
+Copyright 2026 The splits-happen Authors. Licensed under the
+[Apache License, Version 2.0](LICENSE). Contributions are accepted under the
+same license.
